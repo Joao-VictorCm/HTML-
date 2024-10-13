@@ -21,4 +21,4 @@ Passos para instalar e configurar o projeto localmente.
 
 1. **Clonar o repositório:**
    ```bash
-   git clone git@github.com:Joao-VictorCm/Dicee-Game.git
+   git clone git@github.com:Joao-VictorCm/html-.git
